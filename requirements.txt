@@ -1,0 +1,4 @@
+pandas
+npTDMS
+sqlalchemy
+psycopg2
